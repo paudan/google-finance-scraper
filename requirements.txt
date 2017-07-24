@@ -1,0 +1,5 @@
+lxml
+cssselect
+requests
+python-dateutil
+py_postgresql
